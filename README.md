@@ -38,7 +38,7 @@ Then run:
 ```shell
 ./ncu_prof.sh xxx.mtx
 ```
-Then open the ".ncu-rep" file using Nsight-compute
+Then open the ".ncu-rep" file using Nsight-compute to profile the kernels.
 
 ## Reference
 Bell, Nathan, and Michael Garland. Efficient sparse matrix-vector multiplication on CUDA. Vol. 2. No. 5. Nvidia Technical Report NVR-2008-004, Nvidia Corporation, 2008.
