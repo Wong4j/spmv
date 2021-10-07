@@ -33,7 +33,7 @@ correct result
 ```
 
 ## Profile SpMV
-Change the variable "const int repeat = 1" in file "spmv_gpu.cuh" and recompile.
+Set the variable "const int repeat = 1" in file "spmv_gpu.cuh" and recompile.
 Then run:
 ```shell
 ./ncu_prof.sh xxx.mtx
