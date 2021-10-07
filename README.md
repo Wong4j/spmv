@@ -24,5 +24,5 @@ Then open the ".ncu-rep" file using Nsight-compute
 
 ## Reference
 Bell, Nathan, and Michael Garland. Efficient sparse matrix-vector multiplication on CUDA. Vol. 2. No. 5. Nvidia Technical Report NVR-2008-004, Nvidia Corporation, 2008.
-CSR-formatter from https://github.com/notini/csr-formatter
 
+CSR-formatter from https://github.com/notini/csr-formatter
