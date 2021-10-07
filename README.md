@@ -15,6 +15,15 @@ See examples in directory "matrix_collection/download_matrices.sh"
 ```shell
 ./main.exe /path/to/xxx.mtx
 ```
+output example:
+```shell
+shijie@Shijie-workstation:~/workspace/spmv$ ./main.exe matrix_collection/atmosmodd/atmosmodd.mtx 
+nnz = 7
+CSR scalr average time: 0.000330 second
+CSR vector average time: 0.002919 second
+CSR cusparse average time: 0.000277 second
+correct result
+```
 
 ## Profile SpMV
 ```shell
