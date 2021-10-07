@@ -27,7 +27,7 @@ correct result
 
 ## Profile SpMV
 ```shell
-./ncu_prof.sh /path/to/xxx.mtx
+./ncu_prof.sh xxx.mtx
 ```
 Then open the ".ncu-rep" file using Nsight-compute
 
