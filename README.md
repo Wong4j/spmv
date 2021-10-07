@@ -3,6 +3,13 @@ Test the SpMV performance of matrices in CSR sparse formats on GPU.
 
 ## Download sparse matrix
 Download "Matrix Market (.mtx)" file from https://sparse.tamu.edu/. 
+Then extract the .tar.gz file.
+
+```shell
+wget https://suitesparse-collection-website.herokuapp.com/MM/xxx.tar.gz
+
+tar xvf xxx.tar.gz
+```
 
 See examples in directory "matrix_collection/download_matrices.sh"
 
